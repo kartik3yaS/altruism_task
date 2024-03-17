@@ -9,7 +9,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 function App() {
   return (
     <React.Fragment>
-      <div className="app">
+      <div className="App">
         <Main />
         <Slider />
         <Main2 />
